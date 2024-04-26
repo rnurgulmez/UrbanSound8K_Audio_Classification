@@ -18,7 +18,7 @@ In this project, the following steps are performed:
 
 4. **Model Evaluation:** The model is trained on a training dataset and evaluated on a separate test dataset to measure its performance. The accuracy of the model on the test set is computed to assess its effectiveness in classifying urban sounds.
 
-5. **Prediction:** The trained model can also be used to predict the class of new audio files. The `predict_sound.py` script allows users to input a sound file and get the predicted class label.
+5. **Prediction:** The trained model can also be used to predict the class of new audio files. 
 
 ## Requirements
 
